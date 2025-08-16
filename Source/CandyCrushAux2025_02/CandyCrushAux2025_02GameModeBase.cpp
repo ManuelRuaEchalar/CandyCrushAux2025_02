@@ -2,6 +2,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 #include "CandyCrushAux2025_02GameModeBase.h"
 #include "Tablero.h"
+#include "Engine/Engine.h"
 #include "Engine/World.h"
 
 ACandyCrushAux2025_02GameModeBase::ACandyCrushAux2025_02GameModeBase()
@@ -19,6 +20,11 @@ void ACandyCrushAux2025_02GameModeBase::BeginPlay()
 
 	// Crear el tablero al iniciar el juego
 	CrearTablero();
+	// Imprimir "hola" en la pantalla usando GEngine
+		if (GEngine)
+		{
+			GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, TEXT("hola"));
+		}
 }
 
 void ACandyCrushAux2025_02GameModeBase::CrearTablero()
