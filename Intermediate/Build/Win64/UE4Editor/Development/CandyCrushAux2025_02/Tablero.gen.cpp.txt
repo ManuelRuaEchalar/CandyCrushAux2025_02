@@ -1,0 +1,9 @@
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\Definitions.CandyCrushAux2025_02.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Source\CandyCrushAux2025_02/Tablero.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Inc\CandyCrushAux2025_02\Tablero.generated.h

@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CandyCrushAux2025_02-4935.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\CandyCrushAux2025_02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\Bloque.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCapsula.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCilindro.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCono.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCubo.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueEsfera.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\CandyCrushAux2025_02.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\CandyCrushAux2025_02GameModeBase.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\Bloque.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCapsula.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCilindro.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCono.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueCubo.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\BloqueEsfera.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\CandyCrushAux2025_02.init.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\CandyCrushAux2025_02GameModeBase.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\Default.rc2.res"
+/OUT:"C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\UE4Editor-CandyCrushAux2025_02-4935.lib"

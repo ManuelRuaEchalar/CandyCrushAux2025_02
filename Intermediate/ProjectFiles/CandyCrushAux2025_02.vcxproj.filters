@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CandyCrushAux2025_02.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6BA4427C-54FE-4A2B-9743-619E20A5AC81}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CandyCrushAux2025_02.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CandyCrushAux2025_02Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3603DAB3-5A2D-4731-8027-4E4D81991A75}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CandyCrushAux2025_02">
+      <UniqueIdentifier>{A7C48B91-0D67-44E4-990B-AAE66291B1FC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\Bloque.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\Bloque.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\BloqueCapsula.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\BloqueCapsula.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\BloqueCilindro.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\BloqueCilindro.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\BloqueCono.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\BloqueCono.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\BloqueCubo.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\BloqueCubo.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\BloqueEsfera.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\BloqueEsfera.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CandyCrushAux2025_02\CandyCrushAux2025_02.Build.cs">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\CandyCrushAux2025_02.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\CandyCrushAux2025_02.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\CandyCrushAux2025_02GameModeBase.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\CandyCrushAux2025_02GameModeBase.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CandyCrushAux2025_02\Tablero.cpp">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CandyCrushAux2025_02\Tablero.h">
+      <Filter>Source\CandyCrushAux2025_02</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

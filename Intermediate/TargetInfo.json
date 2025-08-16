@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CandyCrushAux2025_02",
+			"Path": "C:\\Users\\jruae\\Documents\\Unreal Projects\\CandyCrushAux2025_02\\Source\\CandyCrushAux2025_02.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CandyCrushAux2025_02Editor",
+			"Path": "C:\\Users\\jruae\\Documents\\Unreal Projects\\CandyCrushAux2025_02\\Source\\CandyCrushAux2025_02Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

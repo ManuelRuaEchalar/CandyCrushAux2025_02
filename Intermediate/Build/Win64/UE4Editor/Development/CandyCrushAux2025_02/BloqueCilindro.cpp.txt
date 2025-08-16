@@ -1,0 +1,5 @@
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Development\CandyCrushAux2025_02\Definitions.CandyCrushAux2025_02.h
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Source\CandyCrushAux2025_02\BloqueCilindro.h
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Source\CandyCrushAux2025_02\Bloque.h
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Inc\CandyCrushAux2025_02\Bloque.generated.h
+C:\Users\jruae\Documents\Unreal Projects\CandyCrushAux2025_02\Intermediate\Build\Win64\UE4Editor\Inc\CandyCrushAux2025_02\BloqueCilindro.generated.h
